@@ -114,10 +114,11 @@ h2{
     margin-bottom: 0;
     text-shadow: 1.5px 1.5px black;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-    width: 200px;
-    height: 70px;
+    width: 150px;
+    height: 80px;
 }
 
 a{
     text-decoration: none;
 }
+
