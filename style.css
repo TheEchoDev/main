@@ -1,5 +1,5 @@
 body{
-    background-color: #4da9ff;
+    background-color: rgb(0, 156, 246);
     background-image: url(./Background.png);
     background-repeat: no-repeat;
     background-position: center;
@@ -115,12 +115,22 @@ h2{
     text-shadow: 1.5px 1.5px black;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     width: 200px;
-    height: 100px;
+    height: 70px;
 }
 
 a{
     text-decoration: none;
 }
 
-
-
+.Normal-text{
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: bold;
+    text-align: center;
+    color: white;
+    -webkit-text-stroke: 1px black;
+    font-size: clamp(28px, 6vw, 50px);
+    max-width: 100%;
+    text-align: center;
+    margin: auto;
+    margin-bottom: 5%;
+}
